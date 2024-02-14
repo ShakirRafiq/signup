@@ -7,7 +7,8 @@
     "mongoose": "^8.1.2",
     "request": "^2.88.2",
     "sib-api-v3-sdk": "^8.5.0",
-    "static": "^2.0.0"
+    "static": "^2.0.0",
+    "vercel": "^33.5.0"
   },
   "scripts": {
     "start": "node server.js"
